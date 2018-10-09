@@ -1,0 +1,14 @@
+[package]
+name = "parsing"
+version = "0.1.0"
+authors = ["Xie Yuheng <xyheme@gmail.com>"]
+edition = "2018"
+repository = "https://github.com/rosettacash/rose-rs"
+readme = "../README.md"
+license = "GPL-3.0"
+keywords = ["blockchain", "RosettaCash"]
+description = """
+A Blockchain Node by RosettaCash.
+"""
+
+[dependencies]
